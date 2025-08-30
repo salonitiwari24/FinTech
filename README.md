@@ -97,25 +97,44 @@ ollama pull llama3.2:1b
 
 ## 🔒 Security
 
-Your financial data security is our top priority:
-- End-to-end encryption for all financial data
-- No permanent storage of sensitive account credentials
-- Option to use anonymized data for predictions
-- Compliance with financial data protection regulations
+- All financial data is encrypted and stored securely
+- No sensitive information is shared with third parties
+- Regular security audits and updates
 
-## 🛠 Dependencies
+## 🛠️ Tech Stack
 
-- **Next.js 14**: React framework
-- **TypeScript**: Type safety
-- **Tailwind CSS**: Styling
-- **Chart.js**: Data visualization
-- **Prisma**: Database ORM
-- **NextAuth.js**: Authentication
-- **Ollama**: Local AI model integration
+- **Frontend**: Next.js 15, React 19, TypeScript
+- **Styling**: Tailwind CSS 4
+- **Charts**: Chart.js with react-chartjs-2
+- **Icons**: React Icons
+- **Database**: Prisma with SQLite
+- **Authentication**: NextAuth.js
+- **AI**: Ollama integration
 
-## 📖 Educational Use Cases
+## 📱 Pages
 
-- **Students**: Create study materials from lecture notes
-- **Teachers**: Generate quizzes and learning aids
-- **Self-learners**: Get AI tutoring on any topic
-- **Exam Prep**: Practice with generated questions and flashcards
+- **Dashboard**: Main financial overview with charts and insights
+- **Expenses**: Detailed expense tracking and categorization
+- **Investments**: Portfolio analysis and optimization
+- **Savings**: Goal tracking and savings strategies
+- **Risks**: Risk assessment and alerts
+- **Predictions**: AI-powered financial forecasting
+
+## 🎨 Theme
+
+The application features a professional green/blue/black color scheme with:
+- Modern grid-based layouts
+- Center-aligned headings
+- Professional financial dashboard design
+- Responsive design for all devices
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License.
